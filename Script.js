@@ -47,7 +47,6 @@ function mintNFT (name,age,complexion) {
     }
     
     // call your functions below this line
-    mintNFT("Chandan",'19',"white
-    ");
+    mintNFT("Chandan",'19',"white");
     listNFTs();
     getTotalSupply();
